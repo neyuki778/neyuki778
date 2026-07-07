@@ -2,10 +2,7 @@
 
 I'm an undergraduate at HNU, CN.
 
-Currently a Backend Developer Intern at [SwanLab](https://github.com/SwanHubX).
-
-[![SwanLab stars](https://img.shields.io/github/stars/SwanHubX/SwanLab?style=flat&logo=github&label=SwanHubX%2FSwanLab)](https://github.com/SwanHubX/SwanLab)
-[![SwanLab badge](https://raw.githubusercontent.com/SwanHubX/assets/main/badge2.svg)](https://github.com/SwanHubX/SwanLab)
+Former Backend Developer Intern at [SwanLab](https://github.com/SwanHubX)[![SwanLab stars](https://img.shields.io/github/stars/SwanHubX/SwanLab?style=flat&logo=github&label=SwanHubX%2FSwanLab)](https://github.com/SwanHubX/SwanLab) [![SwanLab badge](https://raw.githubusercontent.com/SwanHubX/assets/main/badge2.svg)](https://github.com/SwanHubX/SwanLab).
 
 Open mind for making friends.
 
